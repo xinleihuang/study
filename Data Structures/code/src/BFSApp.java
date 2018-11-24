@@ -1,6 +1,6 @@
-import DFSGraph.Graph;
+import BFSGraph.Graph;
 
-public class DFSApp {
+public class BFSApp {
 	public static void main(String[] args) {
 		Graph theGraph = new Graph();
 		theGraph.addVertex('A');
@@ -15,7 +15,7 @@ public class DFSApp {
 		theGraph.addEdge(3, 4);
 		
 		System.out.print("Visits: ");
-		theGraph.dfs();
+		theGraph.bfs();
 		System.out.println();
 	}
 }

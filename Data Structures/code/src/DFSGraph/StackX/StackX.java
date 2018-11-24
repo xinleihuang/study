@@ -1,4 +1,4 @@
-package Graph.StackX;
+package DFSGraph.StackX;
 
 public class StackX {
 	private final int SIZE = 20;
