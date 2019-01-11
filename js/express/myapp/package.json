@@ -1,0 +1,14 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "express study",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Oh <wombat@npmjs.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
