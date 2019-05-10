@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f054b73c-6761-4173-ae12-cfbaa6b0151b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../java/data_structure/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/data_structure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/data_structure/src/com/oliver/huang/Brackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/data_structure/src/com/oliver/huang/PriorityQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/data_structure/src/com/oliver/huang/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/data_structure/src/com/oliver/huang/Reverser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/data_structure/src/com/oliver/huang/StackX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/spring/hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/spring/hello/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/spring/hello/src/com/company/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/spring/hello/src/com/company/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AbstractClassesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AbstractClassesChallenge/src/com/company/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AbstractClassesChallenge/src/com/company/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AbstractClassesChallenge/src/com/company/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AbstractClassesChallenge/src/com/company/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AbstractClassesChallenge/src/com/company/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Abstraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Abstraction/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Abstraction/src/com/company/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Abstraction/src/com/company/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Abstraction/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Abstraction/src/com/company/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Abstraction/src/com/company/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AccessModifiers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AccessModifiers/src/com/company/Accessible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AccessModifiers/src/com/company/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Adventure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Adventure/src/com/company/_static/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ArrayChallenge/ArrayChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ArrayListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ArrayListChallenge/src/com/company/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ArrayListChallenge/src/com/company/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/AutoboxAndUnbox/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Bank/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Bank/src/com/company/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Bank/src/com/company/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Bank/src/com/company/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ByteShortInt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Classes/src/com/company/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Collections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Collections/src/com/company/_static/MapProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Collections/src/com/company/_static/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Composition/src/com/company/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Controls/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Encapsulation/src/com/company/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Encapsulation/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/EncapsulationChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/EncapsulationChallenge/src/com/company/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Events/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Exceptions/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Exceptions/src/com/company/_static/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Final/src/com/company/_static/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GameTest/.idea/libraries/PackageDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GameTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GameTest/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Generics/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Generics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Generics/src/com/company/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Generics/src/com/company/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Generics/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Generics/src/com/company/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Generics/src/com/company/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GenericsChallenge/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GenericsChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GenericsChallenge/src/com/company/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GenericsChallenge/src/com/company/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GenericsChallenge/src/com/company/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GenericsChallenge/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/GenericsChallenge/src/com/company/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/HelloWorld/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/HelloWorldFX/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InheritanceChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InheritanceChallenge/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InheritanceChallenge/src/com/company/Outlander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InheritanceChallenge/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InnerClasses/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InnerClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InnerClasses/src/com/company/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InnerClasses/src/com/company/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InnerClassesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InnerClassesChallenge/src/com/company/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InnerClassesChallenge/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InnerClassesChallenge/src/com/company/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InputOutput/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InputOutput/src/com/company/_static/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InputOutput/src/com/company/_static/Locations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InputOutput/src/com/company/_static/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InputOutput/src/com/company/_static/ShiftInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InputOutputNIO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Interfaces/src/com/company/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Interfaces/src/com/company/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Interfaces/src/com/company/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InterfacesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InterfacesChallenge/src/com/company/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InterfacesChallenge/src/com/company/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/InterfacesChallenge/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/KeywordsAndExpressions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Layouts/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/LinkedList/src/com/company/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/LinkedList/src/com/company/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/LinkedListChallenge/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/LinkedListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/LinkedListChallenge/src/com/company/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/LinkedListChallenge/src/com/company/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ListAndArrayList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ListAndArrayList/src/com/company/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/MinElementChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/MyContacts/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/MyContacts/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/MyContacts/src/sample/ContactController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/MyContacts/src/sample/contactdialog.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/MyContacts/src/sample/datamodel/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/MyContacts/src/sample/datamodel/ContactData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Operators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PackageChallenge/.idea/artifacts/PackageChallenge_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PackageChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PackageChallenge/src/com/company/mylibrary/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PackageDemo/.idea/artifacts/PackageDemo_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PackageDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PackageDemo/src/com/example/game/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PackageDemo/src/com/example/game/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PackageDemo/src/com/example/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Packages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Packages/src/com/company/MyWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Polymorphism/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PolymorphismChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/PolymorphismChallenge/src/com/company/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ReverseArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SceneBuilder/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SceneBuilder/src/sample/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Scope/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Scope/src/com/company/ScopeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ScopeChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/ScopeChallenge/src/com/company/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SeriesTest/.idea/libraries/PackageChallenge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SeriesTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/src/com/company/_static/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/src/com/company/_static/DogMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/src/com/company/_static/DwarfPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/src/com/company/_static/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/src/com/company/_static/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/src/com/company/_static/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/src/com/company/_static/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/src/com/company/_static/SetChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SetAndHashSet/src/com/company/_static/SetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SortedCollections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SortedCollections/src/com/company/_static/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SortedCollections/src/com/company/_static/StockItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/SortedCollections/src/com/company/_static/StockList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Static/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Static/src/com/company/_static/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Strings/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Threads/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Threads/src/com/company/_static/AnotherThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/Threads/src/com/company/_static/ThreadColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/TodoList/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/TodoList/src/com/applejava/todolist/DialogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/TodoList/src/com/applejava/todolist/datamodel/ToDoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/TodoList/src/com/applejava/todolist/datamodel/TodoItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/TodoList/src/com/applejava/todolist/todoItemDialog.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/TodoList/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/javaNio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/udemy-java-programming-mastercourse/javaNio/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structures/Data_Structures_and_Algorithms_in_Java_2nd_Edition.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structures/Data_Structures_and_Algorithms_in_Java_2nd_Edition.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/express/myapp/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../js/express/myapp/app.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>str</find>
+      <find>posNum</find>
+      <find>]</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>strT</replace>
+      <replace>}</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/oliver/huang/sort.java" />
+        <option value="$PROJECT_DIR$/src/com/oliver/huang/Sort.java" />
+        <option value="$PROJECT_DIR$/src/com/oliver/huang/Link.java" />
+        <option value="$PROJECT_DIR$/src/com/oliver/huang/LinkList.java" />
+        <option value="$PROJECT_DIR$/src/com/oliver/huang/FirstLastList.java" />
+        <option value="$PROJECT_DIR$/src/com/oliver/huang/DoublyLink.java" />
+        <option value="$PROJECT_DIR$/src/com/oliver/huang/DoublyLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/com/oliver/huang/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="-877" />
+    <option name="width" value="1440" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="huang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557082538588" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.oliver.huang.Main" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f054b73c-6761-4173-ae12-cfbaa6b0151b" name="Default Changelist" comment="" />
+      <created>1555075988874</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555075988874</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-877" width="1440" height="878" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24390244" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32503277" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.35779816" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Debug" order="8" weight="0.35550788" />
+    </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>factorial(memo,n-count)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2 % factorial(memo,n-count)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>3 % factorial(memo,2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>3 / factorial(memo,2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>merged.get(merged.size() - 1)[1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lastResult.charAt(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>posNums.contains(-1 * negI - negJ)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>posNums.contains(-negI - negJ)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>atoi.substring(previousSymbolIndex,i-1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="813" column="6" lean-forward="true" selection-start-line="813" selection-start-column="6" selection-end-line="813" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="165" column="11" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oliver/huang/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oliver/huang/DoublyLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oliver/huang/FirstLastList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="54" column="27" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oliver/huang/LinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="67" column="12" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oliver/huang/Link.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oliver/huang/DoublyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oliver/huang/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

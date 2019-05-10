@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4bea697-c6fe-463d-b2e1-63640c5a4cce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../spring/hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/hello/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/hello/src/com/company/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/hello/src/com/company/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/ArrayChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/company/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/company/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxAndUnbox/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortInt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes/src/com/company/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/company/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/company/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/company/Outlander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/com/company/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/com/company/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/src/com/company/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/src/com/company/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/company/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/company/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/src/com/company/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinElementChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/src/com/company/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../js/express/myapp/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../js/express/myapp/app.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Team.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/BaseballPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/FootballPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SoccerPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/FootballPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BaseballPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SoccerPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Player.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Team.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1440" />
+    <option name="y" value="-1079" />
+    <option name="width" value="1024" />
+    <option name="height" value="1079" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Generics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551219059539" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Generics" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4bea697-c6fe-463d-b2e1-63640c5a4cce" name="Default Changelist" comment="" />
+      <created>1551203558247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551203558247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="-1079" width="1024" height="1079" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.32484725" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32953367" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Run" order="8" weight="0.32108626" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SoccerPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/FootballPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BaseballPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Generics</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

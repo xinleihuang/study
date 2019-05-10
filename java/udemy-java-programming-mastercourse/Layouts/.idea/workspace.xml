@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../spring/hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/hello/hello.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/hello/src/com/company/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/hello/src/com/company/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClassesChallenge/src/com/company/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/company/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/company/Accessible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AccessModifiers/src/com/company/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adventure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adventure/src/com/company/_static/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/ArrayChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/company/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayListChallenge/src/com/company/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxAndUnbox/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/com/company/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ByteShortInt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes/src/com/company/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/com/company/_static/MapProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/com/company/_static/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Composition/src/com/company/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/company/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/com/company/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final/src/com/company/_static/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameTest/.idea/libraries/PackageDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameTest/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/company/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/company/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/company/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/company/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsChallenge/src/com/company/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorldFX/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/company/Outlander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceChallenge/src/com/company/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/com/company/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/com/company/Gearbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/src/com/company/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClassesChallenge/src/com/company/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/DeskPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/ITelephone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/company/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfacesChallenge/src/com/company/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KeywordsAndExpressions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/company/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/company/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/dictionaries/ohuang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/company/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListAndArrayList/src/com/company/GroceryList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Methods/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MinElementChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageChallenge/.idea/artifacts/PackageChallenge_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageChallenge/src/com/company/mylibrary/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/.idea/artifacts/PackageDemo_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/src/com/example/game/ISaveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/src/com/example/game/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/src/com/example/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/src/com/company/MyWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Polymorphism/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/src/com/company/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReverseArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scope/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scope/src/com/company/ScopeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScopeChallenge/src/com/company/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeriesTest/.idea/libraries/PackageChallenge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeriesTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/company/_static/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/company/_static/DogMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/company/_static/DwarfPlanet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/company/_static/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/company/_static/Labrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/company/_static/Moon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/company/_static/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/company/_static/SetChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SetAndHashSet/src/com/company/_static/SetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortedCollections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/company/_static/Basket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/company/_static/StockItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SortedCollections/src/com/company/_static/StockList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static/src/com/company/_static/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Strings/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../js/express/myapp/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../js/express/myapp/app.js" afterDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/module-info.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="3" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+        <option value="$PROJECT_DIR$/src/module-info.java" />
+        <option value="$PROJECT_DIR$/src/sample/sample.fxml" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Layouts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Layouts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Layouts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553032334520" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Layouts" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285151" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3298292" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaFXApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx-swt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Layouts</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
